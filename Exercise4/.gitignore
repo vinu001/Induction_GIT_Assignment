@@ -1,0 +1,5 @@
+*.exe
+*.o
+*.jar
+/public
+#    will ignore /public directory in Exercise4.
